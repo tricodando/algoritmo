@@ -1,6 +1,6 @@
 # Minicurso de Algoritmo
 
-Repositório dedicado a armazenar  as aulas do Minicurso de Algoritmo do [canal do Youtube](https://www.youtube.com/channel/UCEQBE4_0_3_pzQoMEZFR0Bg).
+Repositório dedicado a armazenar  as aulas do Minicurso de Algoritmo do [Canal do Youtube](https://www.youtube.com/channel/UCEQBE4_0_3_pzQoMEZFR0Bg).
 
 # Conteúdo Programático
 
