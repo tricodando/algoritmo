@@ -12,5 +12,5 @@ Repositório dedicado a armazenar  as aulas do Minicurso de Algoritmo do canal d
 - Aula 06 - Operadores Aritméticos: [aula 6](https://www.youtube.com/watch?v=UXJb_laySoM)
 - Aula 07 - Repetição: [aula 7](https://www.youtube.com/watch?v=6CKzyR_Avgg)
 - Aula 08 - Função: [aula 8](https://www.youtube.com/watch?v=0_Eot0bX-1s)
-- Aula 09 - Algoritmo de Busca: [](https://www.youtube.com/watch?v=8g06LE4ZAnA&t=1s)
-- Aula 10 - Algoritmo de Ordenação: [](https://www.youtube.com/watch?v=Ooe3ceNc8f4&t=28s)
+- Aula 09 - Algoritmo de Busca: [aula 9](https://www.youtube.com/watch?v=8g06LE4ZAnA&t=1s)
+- Aula 10 - Algoritmo de Ordenação: [aula 10](https://www.youtube.com/watch?v=Ooe3ceNc8f4&t=28s)
